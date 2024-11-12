@@ -11,5 +11,5 @@ Este proyecto utiliza Flask para mostrar un mensaje aleatorio cada vez que se re
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu_usuario/proyecto-flask.git
-cd proyecto-flask
+git clone https://github.com/AndyLDU2019/Python1.git
+
